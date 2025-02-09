@@ -1,2 +1,2 @@
 # PyQT lab
- PyQT lab to programm
+Это лабораторная работа
